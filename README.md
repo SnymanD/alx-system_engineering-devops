@@ -1,2 +1,2 @@
 #!/bin/bash
-My first read me
+echo "My first commit"
